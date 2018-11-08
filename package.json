@@ -1,6 +1,6 @@
 {
   "name": "nomi-router",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is the router moudle of nomi node framework",
   "main": "./lib/Router.js",
   "scripts": {
@@ -8,20 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.corp.qunar.com:fed/nomi_router.git"
+    "url": "git@gitlab.corp.qunar.com:fed/nomi-router.git"
   },
   "author": "lantao.wang",
   "license": "ISC",
   "dependencies": {
-    "babel-core": "^6.26.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-plugin-imports-transform": "^0.1.0",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-decorators": "^6.24.1",
-    "babel-plugin-transform-decorators-legacy": "^1.3.4",
-    "babel-register": "^6.26.0"
   }
 }
