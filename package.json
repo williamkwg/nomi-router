@@ -1,6 +1,6 @@
 {
   "name": "nomi-router",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is the router moudle of nomi node framework",
   "main": "./lib/Router.js",
   "scripts": {
@@ -8,8 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williamkwg/nomi-router.git",
-    "innerurl": "git@gitlab.corp.qunar.com:fed/nomi-router.git"
+    "url": "https://github.com/williamkwg/nomi-router.git"
   },
   "author": "lantao.wang",
   "license": "ISC",
