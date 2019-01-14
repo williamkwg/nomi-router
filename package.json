@@ -1,6 +1,6 @@
 {
   "name": "nomi-router",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This is the router moudle of nomi node framework",
   "main": "./lib/Router.js",
   "scripts": {
